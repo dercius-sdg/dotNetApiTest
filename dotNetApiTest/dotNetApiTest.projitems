@@ -9,6 +9,6 @@
     <Import_RootNamespace>dotNetApiTest</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)Data\" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\Services.cs" />
   </ItemGroup>
 </Project>

@@ -3,14 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "dotNetApiTest", "dotNetApiTest\dotNetApiTest.shproj", "{613AA0F1-B393-42DF-A274-6374348A670D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleModule", "ConsoleModule\ConsoleModule.csproj", "{BCA83948-6C16-467B-92FE-F921C521842F}"
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		dotNetApiTest\dotNetApiTest.projitems*{613aa0f1-b393-42df-a274-6374348a670d}*SharedItemsImports = 13
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
